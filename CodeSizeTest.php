@@ -2,7 +2,7 @@
 
 namespace Acme\DemoBundle\Controller;
 
-class CodeSizeTest
+class CodeSizeTestAAA
 {
     public function example($a, $b , $c, $d, $e, $f, $h, $a2, $b2, $a1, $b1, $z)
     {
