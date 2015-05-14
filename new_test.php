@@ -1,6 +1,6 @@
 <?php
 
-use Github\Client;
+use Github\Client\test;
 use Github\Api\User;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
