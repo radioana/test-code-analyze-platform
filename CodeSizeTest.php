@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\DemoBundle\Controller;
+namespace Acme\DemoBundle\Controller\Test;
 
 class CodeSizeTestAAA
 {
