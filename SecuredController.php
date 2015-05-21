@@ -1,4 +1,5 @@
-<?php
+
+asdfasdfas<?php
 
 namespace Test1231231111;
 namespace Acme\DemoBundle\Controller\MyTest\Secondest\NewPR\TestDate\RemoveFromArray;
