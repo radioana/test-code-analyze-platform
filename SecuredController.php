@@ -1,6 +1,6 @@
 <?php
 
-namespace Acme\DemoBundle\Controller\MyTest\Secondest\NewPR;
+namespace Acme\DemoBundle\Controller\MyTest\Secondest\NewPR\TestDate;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Security\Core\SecurityContext;
