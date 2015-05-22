@@ -1,7 +1,7 @@
 
 <?php
 
-namespace Acme\DemoBundle\Controller\MyTest\Secondest\NewPR\TestDate\RemoveFromArray;
+namespace Acme\DemoBundle\Controller\MyTest\Secondest\NewPR;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Security\Core\SecurityContext;
