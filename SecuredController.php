@@ -1,7 +1,6 @@
 
 <?php
 
-namespace Test12312;
 namespace Acme\DemoBundle\Controller\MyTest\Secondest\NewPR\TestDate\RemoveFromArray;
 
 use Symfony\Component\HttpFoundation\Request;
