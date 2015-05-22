@@ -1,7 +1,7 @@
 aaa
 <?php
 
-namespace Acme\DemoBundle\Controller\MyTest\Secondest\NewPR;
+namespace Acme\DemoBundle\Controller\MyTest\Secondest\NewPR\\\\asdasda;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\Security\Core\SecurityContext;
